@@ -1,4 +1,4 @@
 # hello-world
-My first time
-Just trying to start coding again.
+My first time. \n
+Just trying to start coding.
 Things are going really well now.
